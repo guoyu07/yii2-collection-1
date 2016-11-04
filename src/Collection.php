@@ -6,7 +6,6 @@
  */
 namespace xutl\collection;
 
-use Closure;
 use Countable;
 use ArrayAccess;
 use ArrayIterator;
