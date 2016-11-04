@@ -2,7 +2,7 @@
 
 该扩展为 Yii2 framework 添加 [Illuminate\Support\Collection](https://github.com/laravel/framework/blob/5.3/src/Illuminate/Support/Collection.php) 类。
 
-For license information check the [LICENSE](https://github.com/laravel/framework/blob/5.3/LICENSE.md)-file.
+For license information check the [LICENSE](https://github.com/laravel/framework/blob/5.3/LICENSE.md).
 
 Documentation is at [README.md](https://laravel.com/docs/5.3/controllers).
 
