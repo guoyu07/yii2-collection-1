@@ -21,7 +21,7 @@
       "src/helpers.php"
     ],
     "psr-4": {
-      "xutl\\collection\\": ""
+      "xutl\\collection\\": "src"
     }
   }
 }
