@@ -4,7 +4,7 @@
 
 For license information check the [LICENSE](https://github.com/laravel/framework/blob/5.3/LICENSE.md).
 
-Documentation is at [README.md](https://laravel.com/docs/5.3/controllers).
+Documentation is at [README.md](https://laravel.com/docs/5.3/collections).
 
 [![Latest Stable Version](https://poser.pugx.org/xutl/yii2-collection/v/stable.png)](https://packagist.org/packages/xutl/yii2-collection)
 [![Total Downloads](https://poser.pugx.org/xutl/yii2-collection/downloads.png)](https://packagist.org/packages/xutl/yii2-collection)
